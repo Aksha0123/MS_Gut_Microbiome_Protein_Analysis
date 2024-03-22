@@ -1,5 +1,6 @@
-# Common Values Finder
+# Unraveling Metabolic Connections: An Analysis of the Gut Microbiome's Influence on Multiple Sclerosis
 
+Following the scripts used for data analysis in this project.
 This Python script finds the common values in three TSV files and saves them to a new TSV file.
 
 ## Usage
